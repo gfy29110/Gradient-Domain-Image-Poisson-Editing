@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/MainWindow">
+        <file>Resources/images/copy.png</file>
+        <file>Resources/images/cut.png</file>
+        <file>Resources/images/new.png</file>
+        <file>Resources/images/open.png</file>
+        <file>Resources/images/paste.png</file>
+        <file>Resources/images/save.png</file>
+        <file>Resources/images/debug.png</file>
+        <file>Resources/images/free.png</file>
+        <file>Resources/images/poisson.png</file>
+        <file>Resources/images/poly.png</file>
+        <file>Resources/images/rect.png</file>
+        <file>Resources/images/square.png</file>
+        <file>Resources/images/start.png</file>
+    </qresource>
+</RCC>
